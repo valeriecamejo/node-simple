@@ -1,0 +1,30 @@
+{
+  "name": "node-simple",
+  "version": "1.0.0",
+  "description": "boilertplate for node server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriecamejo/node-simple.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Valerie Camejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeriecamejo/node-simple/issues"
+  },
+  "homepage": "https://github.com/valeriecamejo/node-simple#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
