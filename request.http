@@ -1,12 +1,13 @@
-GET http://localhost:3000 HTTP/1.1
+GET http://localhost:4000/users HTTP/1.1
 
 ###
 
-POST http://localhost:3000 HTTP/1.1
+POST http://localhost:4000/users HTTP/1.1
 Content-Type: application/json
 
 {
-    "name": "Valerie",
-    "edad": 38,
-    "otra cosa": "otra cosa"
+    "nombre": "Valerie",
+    "apellido": "Camejo",
+    "edad": 35,
+    "email": "valerie260492@gmail.com"
 }
