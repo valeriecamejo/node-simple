@@ -3,7 +3,7 @@
     {
       "nombre": "Valerie",
       "apellido": "Camejo",
-      "edad": 29,
+      "edad": 28,
       "email": "valerie260492@gmail.com",
       "id": 1
     },
@@ -97,20 +97,6 @@
       "edad": 35,
       "email": "valerie260492@gmail.com",
       "id": 15
-    },
-    {
-      "nombre": "Valerie",
-      "apellido": "Camejo",
-      "edad": 35,
-      "email": "valerie260492@gmail.com",
-      "id": 16
-    },
-    {
-      "nombre": "Valerie",
-      "apellido": "Camejo",
-      "edad": 35,
-      "email": "valerie260492@gmail.com",
-      "id": 17
     }
   ]
 }
